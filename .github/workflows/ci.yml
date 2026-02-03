@@ -1,7 +1,7 @@
 name: Java CI
 
 on:
-  push:
+  push: feature/ci-setup
   pull_request:
 
 jobs:
